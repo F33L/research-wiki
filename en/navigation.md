@@ -19,10 +19,6 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Test]()
-* [test 1](pages/about.md)
-* [test 2](pages/about.md)
-
 [Menu Item 1]()
 
   * # SubMenu Heading 1
