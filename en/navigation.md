@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Research Wiki
 
 
 <!--
@@ -20,7 +20,8 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+- [test 1](pages/about.md)
+- [test 2](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
