@@ -1,4 +1,4 @@
-# It works! ;-)
+# Index
 
 
 ## Section 1
