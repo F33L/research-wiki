@@ -31,6 +31,8 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](pages/subitem3.md)
 
+[Yoga](pages/yoga/index.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
