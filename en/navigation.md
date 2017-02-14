@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Research Wiki
+# Research
 
 
 <!--
@@ -19,10 +19,10 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Menu Item 1]()
+[Yoga]()
 
   * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
+  * [Asanas](pages/subitem1.md)
   * [SubMenu Item 2](pages/subitem2.md)
   - - - -
   * # SubMenu Heading 2

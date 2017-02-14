@@ -17,7 +17,7 @@
 8. Inhale and relax for a few moment
 9. Repeat
 
-![](images/yoga-abdominal-lift-01.jpg)
+![Abdominal Lift](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-abdominal-lift-01.jpg)
 
 ![](images/yoga-abdominal-lift-02.jpg)
 
