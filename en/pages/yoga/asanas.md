@@ -71,6 +71,79 @@
 
 ---
 
+## Chest expansion
+1. Stand in a relaxed posture, spine straight, arms at side, feet close together
+2. Bring hands up to touch chest, palms facing outward
+3. Slowly straighten arms outward at chest level, feel elbows stretching
+4. Slowly bring arms behind you. Keep them high at shoulder level. Feel shoulders stretching
+5. Lower arms slightly so fingers can be interlaced. Keep trunk straight.
+6. Slowly bend backward. Keep arms high and look upward.
+7. Hold for 10 seconds
+8. Slowly bend forward.
+9. Bring arms over back and keep high. Neck muscles are relaxed. Forehead points towards knees. Knees don't bend. Feel spine stretching gently.
+10. Hold for 20 seconds
+11. Slowly straighten to upright position, unclasp hands, and relax
+
+![Chest expansion]()
+
+---
+
+## Chest expansion - Sides
+1. Clasp hands behind back
+2. Extend left leg forward. Turn right foot outwards.
+3. Slowly bend forward
+4. Bring forehead as close to knee as possible. Bring arms over back and keep high. Neck muscles are relaxed. Feel stretching in the hamstring muscles.
+5. Hold for 10 seconds
+6. Slowly straighten to upright position.
+7. Repeat movements with right leg forward.
+
+![Chest expansion]()
+
+---
+
+## Circular motion
+1. Stand with heals touching
+2. Place hands on hips
+3. Slowly bend forward
+4. Roll and twist trunk to the left
+5. Hold for 5 seconds
+6. Roll and twist trunk backwards
+7. Hold for 5 seconds
+8. Roll and twist trunk to the right
+9. Hold for 5 seconds
+10. Repeat movements, widening circle each time
+
+![Circular motion]()
+
+---
+
+## Cobra
+1. Lie stomach down with legs extended. Allow all muscles to relax
+2. Rest forehead on floor
+3. Place hands beneath shoulders. Fingers are together, pointing inward
+4. Slowly tilt head backward
+5. Raise trunk as high as possible without pushing with arms. Keep legs relaxed
+6. Hold for 15 seconds
+7. Slowly lower trunk. Return arms to sides.
+8. Rest cheek on floor and go completely limp.
+
+![Cobra]()
+
+---
+
+## Complete breath
+1. Sit in half lotus position
+2. Exhale deeply through the nose. Contract abdomen.
+3. Begin slow inhalation through nose and distend abdomen.
+4. Continue inhalation and expand chest.
+5. Continue inhalation and raise shoulders.
+6. Hold breath for count of 5
+7. Exhale deeply, relax shoulders and chest, contract abdomen
+
+![Complete breath]()
+
+---
+
 ## Complete breath – Standing
 1. Stand with feet together
 2. Exhale completely, contract abdomen, and relax trunk muscles until limp
@@ -80,6 +153,58 @@
 6. Begin deep exhalation, lowering heals to floor
 
 ![Complete breath – Standing](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-complete-breath-standing-01.jpg)
+
+---
+
+## Head twist
+1. Lying on abdomen, place elbows on floor. Arms are parallel.
+2. Place head between hands and close eyes.
+3. Slowly push head downward with hands until chin touches chest
+4. Hold for 10
+5. Raise head
+6. Place chin in right palm and left hand firmly on back of head. Elbows remain on floor.
+7. Slowly twist head to right
+8. Hold for 10
+9. Turn head frontward
+10. Complete movement twisting to the left
+
+![Head twist]()
+
+---
+
+## Knee and thigh stretch
+1. In a seat position, clasp feet firmly
+2. Pull heals in as far as possible. Sit erect.
+3. Pull hard against feet. Continue to lower knees as far as possible.
+4. Hold for 20 seconds
+5. Release hold and extend legs straight outward
+
+![Knee and thigh stretch]()
+
+---
+
+## Leg over
+1. Lie on your back. Allow all muscles to relax.
+2. Bend right knee and bring it up towards your trunk.
+3. Straighten right leg. Bring it as far towards your head as possible.
+4. Slowly bring leg over and down. Attempt to touch floor. Don't let knee bend.
+5. Hold for 10 seconds
+6. Bright leg back up
+7. Lower leg to ground
+8. Complete movements with left leg
+
+![Leg over]()
+
+---
+
+## Lion
+1. Sit on heals. Rest hands on knees.
+2. Slowly move trunk forward.
+3. Widen eyes, extend tongue, and spread fingers wide apart. You should feel a strong pull in all the muscles of the face and neck.
+4. Hold for 15 seconds
+5. Slowly withdraw tongue, relax eyes and fingers
+
+![Lion]()
 
 ---
 
@@ -116,3 +241,16 @@
 8. Perform left and right movements to the extreme position
 
 ![Side bend](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-side-bend-01.jpg)
+
+---
+
+## Simple twist
+1. In a seated posture, cross right leg over left, placing right foot on the floor
+2. Place right hand firmly on floor behind you
+3. Bring left hand over to hold left knee firmly
+4. Slowly twist as far as possible to right. Look far behind you.
+5. Hold for 10 seconds
+6. Keep hold on right knee. Turn forward and relax
+7. Perform the same movement to the left.
+
+![Circular motion]()
