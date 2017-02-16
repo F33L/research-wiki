@@ -84,7 +84,7 @@
 10. Hold for 20 seconds
 11. Slowly straighten to upright position, unclasp hands, and relax
 
-![Chest expansion]()
+![Chest expansion](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-chest-expansion-01.png)
 
 ---
 
@@ -254,3 +254,7 @@
 7. Perform the same movement to the left.
 
 ![Circular motion]()
+
+---
+
+## Triangle
