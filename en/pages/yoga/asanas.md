@@ -48,7 +48,7 @@
 4. Slowly bend forward with arms kept outstretched
 5. Hold legs with hands placed as far forward as comfortable, knees unbent, neck relaxed, head bends forward
 6. Draw trunk down as far as possible, forehead aimed towards knees, arms bend outward
-7. Hold for 20 seconds. Feel spine stretching.
+7. Hold for 20. Feel spine stretching.
 8. Slowly straighten to upright position
 
 ![Back stretch](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-back-stretch-01.jpg)
@@ -78,10 +78,10 @@
 4. Slowly bring arms behind you. Keep them high at shoulder level. Feel shoulders stretching
 5. Lower arms slightly so fingers can be interlaced. Keep trunk straight.
 6. Slowly bend backward. Keep arms high and look upward.
-7. Hold for 10 seconds
+7. Hold for 10
 8. Slowly bend forward.
 9. Bring arms over back and keep high. Neck muscles are relaxed. Forehead points towards knees. Knees don't bend. Feel spine stretching gently.
-10. Hold for 20 seconds
+10. Hold for 20
 11. Slowly straighten to upright position, unclasp hands, and relax
 
 ![Chest expansion](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-chest-expansion-01.png)
@@ -93,7 +93,7 @@
 2. Extend left leg forward. Turn right foot outwards.
 3. Slowly bend forward
 4. Bring forehead as close to knee as possible. Bring arms over back and keep high. Neck muscles are relaxed. Feel stretching in the hamstring muscles.
-5. Hold for 10 seconds
+5. Hold for 10
 6. Slowly straighten to upright position.
 7. Repeat movements with right leg forward.
 
@@ -106,11 +106,11 @@
 2. Place hands on hips
 3. Slowly bend forward
 4. Roll and twist trunk to the left
-5. Hold for 5 seconds
+5. Hold for 5
 6. Roll and twist trunk backwards
-7. Hold for 5 seconds
+7. Hold for 5
 8. Roll and twist trunk to the right
-9. Hold for 5 seconds
+9. Hold for 5
 10. Repeat movements, widening circle each time
 
 ![Circular motion]()
@@ -123,7 +123,7 @@
 3. Place hands beneath shoulders. Fingers are together, pointing inward
 4. Slowly tilt head backward
 5. Raise trunk as high as possible without pushing with arms. Keep legs relaxed
-6. Hold for 15 seconds
+6. Hold for 15
 7. Slowly lower trunk. Return arms to sides.
 8. Rest cheek on floor and go completely limp.
 
@@ -149,7 +149,7 @@
 2. Exhale completely, contract abdomen, and relax trunk muscles until limp
 3. Begin deep inhalation; abdomen expands
 4. Bring hands to touch overhead. Simultaneously raise high on toes.
-5. Hold for 5 seconds
+5. Hold for 5
 6. Begin deep exhalation, lowering heals to floor
 
 ![Complete breath – Standing](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-complete-breath-standing-01.jpg)
@@ -176,7 +176,7 @@
 1. In a seat position, clasp feet firmly
 2. Pull heals in as far as possible. Sit erect.
 3. Pull hard against feet. Continue to lower knees as far as possible.
-4. Hold for 20 seconds
+4. Hold for 20
 5. Release hold and extend legs straight outward
 
 ![Knee and thigh stretch]()
@@ -188,7 +188,7 @@
 2. Bend right knee and bring it up towards your trunk.
 3. Straighten right leg. Bring it as far towards your head as possible.
 4. Slowly bring leg over and down. Attempt to touch floor. Don't let knee bend.
-5. Hold for 10 seconds
+5. Hold for 10
 6. Bright leg back up
 7. Lower leg to ground
 8. Complete movements with left leg
@@ -201,7 +201,7 @@
 1. Sit on heals. Rest hands on knees.
 2. Slowly move trunk forward.
 3. Widen eyes, extend tongue, and spread fingers wide apart. You should feel a strong pull in all the muscles of the face and neck.
-4. Hold for 15 seconds
+4. Hold for 15
 5. Slowly withdraw tongue, relax eyes and fingers
 
 ![Lion]()
@@ -213,14 +213,14 @@
 2. Place fists, thumbs down, firmly against floor at sides
 3. Push against floor with fists
 4. Rise left leg very slowly as high as possible
-5. Hold for 5 seconds
+5. Hold for 5
 6. Lower left leg
 7. Complete movement with right leg
 8. Repeat movement with both legs
 8. Relax for a few moments
 9. Push against floor with fists
 10. Raise both legs a few inches only
-11. Hold for 5 seconds
+11. Hold for 5
 12. Repeat once
 13. Lower legs and relax in this position for one minute
 
@@ -233,7 +233,7 @@
 1. Stand with heels together
 2. Gracefully raise arms overhead; palms turn inward
 3. Slowly bend several inches to the left, keeping arms parallel and knees unbent
-4. Hold for 5 seconds
+4. Hold for 5
 5. Slowly straighten upright
 6. Perform identical movement to the right
 7. Lower arms to sides and relax
@@ -249,7 +249,7 @@
 2. Place right hand firmly on floor behind you
 3. Bring left hand over to hold left knee firmly
 4. Slowly twist as far as possible to right. Look far behind you.
-5. Hold for 10 seconds
+5. Hold for 10
 6. Keep hold on right knee. Turn forward and relax
 7. Perform the same movement to the left.
 
@@ -258,3 +258,12 @@
 ---
 
 ## Triangle
+1. Stand with legs approximately two feet apart
+2. Raise arms to shoulder level with palms facing downward
+3. Bend slowly to the left, keeping arms outstretched
+4. Take hold of the leg as low as you can go. Knees remain straight
+5. Bring right arm over as far as possible. Do not bend elbow. Feel your right side tightening. Relax neck muscles
+6. Hold for 15
+7. Perform identical movements to the right.
+
+![Triangle]()
