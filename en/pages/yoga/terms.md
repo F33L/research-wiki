@@ -15,8 +15,21 @@
 | Samadhi | Absorption. The state of consciousness induced by complete meditation.
 
 ## Types of yoga
-Ananda Yoga
-Anusara Yoga
-Ashtanga Yoga
+- Ananda Yoga
+- Anusara Yoga
+- Ashtanga Yoga
+- Bikram Yoga
+- Hatha yoga
+- Ishta Yoga
+- Iyengar Yoga
+- Jivamukti Yoga
+- Tri Yoga
+- Kripalu Yoga
+- Kundalini Yoga
+- Power Yoga
+- Sivananda Yoga
+- Svaroopa Yoga
+- Viniyoga
+- Yin yoga
 
 Source: http://urbanwired.com/health/different-types-of-yoga/
