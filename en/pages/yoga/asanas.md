@@ -127,7 +127,7 @@
 7. Slowly lower trunk. Return arms to sides.
 8. Rest cheek on floor and go completely limp.
 
-![Cobra]()
+![Cobra](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-cobra-01.jpg)
 
 ---
 
