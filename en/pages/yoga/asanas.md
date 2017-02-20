@@ -2,6 +2,8 @@
 
 ## Abdominal lift
 
+_Sanskrit name: Uddiyana_
+
 1. Sit in a cross-legged posture
 2. Work the abdominal muscles to contact your abdomen as much as possible.
 3. Exhale deeply
@@ -63,11 +65,26 @@
 3. Move arms slowly backward until you can rest hand on floor, fingers pointing behind you
 4. Lower head back slowly, arch spine inward, move trunk upward, buttocks remain on heals, knees together on floor
 5. Move hands as far backward as possible
-6. Hold for 20 second
+6. Hold for 20
 7. Raise head
 8. Slowly move hands forward
 
 ![Backward bend](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-backward-bend-01.jpg)
+
+---
+
+## Bow
+1. Lie face down, chin resting on floor, arms at sides
+2. Bend knees and bring feet forward
+3. Reach back and hold feet. Chin remains on floor.
+4. Slowly raise trunk
+5. As you continue to raise trunk, begin to raise knees. Head bends backward.
+6. Bring knees together. Feel back become firm.
+7. Hold for 10
+8. Slowly lower knees to floor. Keep holding feet.
+9. Slowly lower trunk and chin to floor. Keep holding feet.
+10. Release feet and lower lets to floor.
+11. Rest cheek on floor and completely relax.
 
 ---
 
