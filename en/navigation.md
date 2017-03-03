@@ -22,6 +22,7 @@
 [Yoga]()
 
   * [Asanas](pages/yoga/asanas.md)
+  * [Routines](pages/yoga/routines.md)
   * [Terms](pages/yoga/terms.md)
   * [Wisdom](pages/yoga/wisdom.md)
 
