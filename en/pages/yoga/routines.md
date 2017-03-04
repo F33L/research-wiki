@@ -3,7 +3,7 @@
 ## Routine 1
 | Asana | Repetitions | Hold |
 | :--- | :--- | :--- |
-| Rishi's Posture | 3x | 10
+| [Rishi's Posture](asanas/rishis-posture.md) | 3x | 10
 | Triangle | 3x | 10
 | Balance posture | 5x | ?
 | Back stretch | 3x | 20

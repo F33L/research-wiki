@@ -25,6 +25,7 @@
   * [Routines](pages/yoga/routines.md)
   * [Terms](pages/yoga/terms.md)
   * [Wisdom](pages/yoga/wisdom.md)
+  * [Process](pages/yoga/process.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
