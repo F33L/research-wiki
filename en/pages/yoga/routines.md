@@ -14,6 +14,6 @@
 | [Dhanurasana (Bow)](asanas/dhanurasana.md) | 2x | 10
 | [Supta-Vajrasana (Backward bend)](asanas/supta-vajrasana.md) | 3x | 20
 | [Leg over](asanas/leg-over.md) | 3x | 10
-| [Sukh purvak (Alternate nostril breathing)](sukh-purvak.md) | 5x | ?
+| [Sukh purvak (Alternate nostril breathing)](asanas/sukh-purvak.md) | 5x | ?
 
 Finish by remaining seated in cross legged posture for several minutes and become aware of what is occurring throughout your body.
