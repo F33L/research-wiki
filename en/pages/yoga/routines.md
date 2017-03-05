@@ -4,17 +4,16 @@
 | Asana | Repetitions | Hold |
 | :--- | :--- | :--- |
 | [Rishi's Posture](asanas/rishis-posture.md) | 3x | 10
-| Triangle | 3x | 10
+| [Trikonasana (Triangle)](asanas/trikonasana.md) | 3x | 10
 | [Natarajasana (Balance posture)](asanas/natarajasana.md) | 5x | ?
-| Back stretch | 3x | 20
-| Bust exercise | 5x | 5
-| Head twist | 3x | 20
-| Cobra | 2x | 30
-| Locust - Legs separate | 1x | 10
-| Locust - Legs together | 2x | 10
-| Bow | 2x | 10
-| Backward bend | 3x | 20
-| Leg over | 3x | 10
+| [Paschimottanasana (Back stretch)](asanas/paschimottanasana.md) | 3x | 20
+| [Head twist](asanas/head-twist.md) | 3x | 20
+| [Bhujangasana (Cobra)](asanas/bhujangasana.md) | 2x | 30
+| [Salabhasana (Locust) - Legs separate](asanas/salabhasana.md) | 1x | 10
+| [Salabhasana (Locust) - Legs together](asanas/salabhasana.md) | 2x | 10
+| [Dhanurasana (Bow)](asanas/dhanurasana.md) | 2x | 10
+| [Supta-Vajrasana (Backward bend)](asanas/supta-vajrasana.md) | 3x | 20
+| [Leg over](asanas/leg-over.md) | 3x | 10
 | [Sukh purvak (Alternate nostril breathing)](sukh-purvak.md) | 5x | ?
 
 Finish by remaining seated in cross legged posture for several minutes and become aware of what is occurring throughout your body.

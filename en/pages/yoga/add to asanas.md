@@ -1,1 +1,2 @@
-Alternate nostil breathing 205
+- Alternate nostil breathing 205
+- Trikonasana (Triangle) - IMAGE
