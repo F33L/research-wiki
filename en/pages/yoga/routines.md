@@ -17,3 +17,41 @@
 | [Sukh purvak (Alternate nostril breathing)](asanas/sukh-purvak.md) | 5x | ?
 
 Finish by remaining seated in cross legged posture for several minutes and become aware of what is occurring throughout your body.
+
+---
+
+## Routine 2
+| Asana | Repetitions | Hold
+| :--- | :--- | :--- |
+| Complete standing breath | 5x | 5
+| Circular motion | 3x | 5
+| Side bend | 3x | 10
+| Leg clasp | 6x | 10
+| Elbow to knee | 2x | 5
+| Alternate leg pull | 3x | 20
+| Full twist | 2x | 20
+| Side raise | 3x | 10
+| Complete breath | 5x | 10
+| Head stand | 1x | 180(?)
+| Deep relaxation | 7x | n/a
+
+---
+
+## Routine 3
+
+| Asana | Repetitions | Hold
+| :--- | :--- | :--- |
+| Chest expansion | 3x | 10
+| Dancer's posture | 5x | n/a
+| [Uddiyana (Abdominal lift) - Standing](asanas/uddiyana.md) | 3x | n/a
+| [Uddiyana (Abdominal lift) - All fours](asanas/uddiyana.md) | 3x | n/a
+| Scalp | 25x | n/a
+| Lion | 3x | 20
+| Neck roll | 2x | 5
+| Posture clasp | 5x | 3
+| Knee and thigh stretch | 3x | 15
+| Shoulder stand | 1x | 180
+| Plough | 2x | 20
+| Back push-up | 3x | 10
+| Slow motion firming | 2x | n/a
+| Candle concentration | 1x | 2min, 1-2min
