@@ -23,9 +23,9 @@ Finish by remaining seated in cross legged posture for several minutes and becom
 ## Routine 2
 | Asana | Repetitions | Hold
 | :--- | :--- | :--- |
-| Complete standing breath | 5x | 5
+| [Pranayama (Complete breath)](asanas/pranayama.md) | 5x | 5
 | [Circular motion](asanas/circular-motion.md) | 3x | 5
-| Side bend | 3x | 10
+| [Uttithia Merudandasana (Side bend)](uttithia-merudandasana.md) | 3x | 10
 | Leg clasp | 6x | 10
 | Elbow to knee | 2x | 5
 | Alternate leg pull | 3x | 20
@@ -49,9 +49,9 @@ Finish by remaining seated in cross legged posture for several minutes and becom
 | [Simhasana (Lion)](asanas/simhasana.md) | 3x | 20
 | Neck roll | 2x | 5
 | Posture clasp | 5x | 3
-| Knee and thigh stretch | 3x | 15
-| Shoulder stand | 1x | 180
-| Plough | 2x | 20
+| [Bhadrasana (Knee and thigh stretch)](asanas/bhadrasana.md) | 3x | 15
+| [Sarvangasana (Shoulder stand)](sarvangasana.md) | 1x | 180
+| [Halasana (Plough)](asanas/halasana.md) | 2x | 20
 | Back push-up | 3x | 10
 | Slow motion firming | 2x | n/a
 | Candle concentration | 1x | 2min, 1-2min
