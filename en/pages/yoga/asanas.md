@@ -1,48 +1,5 @@
 # Asanas
 
-## Backward bend
-1. Place knees together and sit back on heels
-2. Place fingertips on floor at sides
-3. Move arms slowly backward until you can rest hand on floor, fingers pointing behind you
-4. Lower head back slowly, arch spine inward, move trunk upward, buttocks remain on heals, knees together on floor
-5. Move hands as far backward as possible
-6. Hold for 20
-7. Raise head
-8. Slowly move hands forward
-
-![Backward bend](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-backward-bend-01.jpg)
-
----
-
-## Chest expansion - Sides
-1. Clasp hands behind back
-2. Extend left leg forward. Turn right foot outwards.
-3. Slowly bend forward
-4. Bring forehead as close to knee as possible. Bring arms over back and keep high. Neck muscles are relaxed. Feel stretching in the hamstring muscles.
-5. Hold for 10
-6. Slowly straighten to upright position.
-7. Repeat movements with right leg forward.
-
-![Chest expansion]()
-
----
-
-## Circular motion
-1. Stand with heals touching
-2. Place hands on hips
-3. Slowly bend forward
-4. Roll and twist trunk to the left
-5. Hold for 5
-6. Roll and twist trunk backwards
-7. Hold for 5
-8. Roll and twist trunk to the right
-9. Hold for 5
-10. Repeat movements, widening circle each time
-
-![Circular motion]()
-
----
-
 ## Complete breath
 1. Sit in half lotus position
 2. Exhale deeply through the nose. Contract abdomen.
@@ -79,16 +36,6 @@
 
 ---
 
-## Lion
-1. Sit on heals. Rest hands on knees.
-2. Slowly move trunk forward.
-3. Widen eyes, extend tongue, and spread fingers wide apart. You should feel a strong pull in all the muscles of the face and neck.
-4. Hold for 15
-5. Slowly withdraw tongue, relax eyes and fingers
-
-![Lion]()
-
----
 
 ## Plough
 1. Lie on your, brace palms against floor, and raise legs
@@ -137,16 +84,3 @@
 8. Perform left and right movements to the extreme position
 
 ![Side bend](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-side-bend-01.jpg)
-
----
-
-## Simple twist
-1. In a seated posture, cross right leg over left, placing right foot on the floor
-2. Place right hand firmly on floor behind you
-3. Bring left hand over to hold left knee firmly
-4. Slowly twist as far as possible to right. Look far behind you.
-5. Hold for 10
-6. Keep hold on right knee. Turn forward and relax
-7. Perform the same movement to the left.
-
-![Circular motion]()

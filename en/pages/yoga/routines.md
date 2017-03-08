@@ -24,12 +24,12 @@ Finish by remaining seated in cross legged posture for several minutes and becom
 | Asana | Repetitions | Hold
 | :--- | :--- | :--- |
 | Complete standing breath | 5x | 5
-| Circular motion | 3x | 5
+| [Circular motion](asanas/circular-motion.md) | 3x | 5
 | Side bend | 3x | 10
 | Leg clasp | 6x | 10
 | Elbow to knee | 2x | 5
 | Alternate leg pull | 3x | 20
-| Full twist | 2x | 20
+| Ardha matsyendrasana (Twist)[asanas/ardha-matsyendrasana.md] | 2x | 20
 | Side raise | 3x | 10
 | Complete breath | 5x | 10
 | Head stand | 1x | 180(?)
@@ -41,12 +41,12 @@ Finish by remaining seated in cross legged posture for several minutes and becom
 
 | Asana | Repetitions | Hold
 | :--- | :--- | :--- |
-| Chest expansion | 3x | 10
+| [Ardha chakrasana (Chest expansion)](ardha-chakrasana.md) | 3x | 10
 | Dancer's posture | 5x | n/a
 | [Uddiyana (Abdominal lift) - Standing](asanas/uddiyana.md) | 3x | n/a
 | [Uddiyana (Abdominal lift) - All fours](asanas/uddiyana.md) | 3x | n/a
 | Scalp | 25x | n/a
-| Lion | 3x | 20
+| [Simhasana (Lion)](asanas/simhasana.md) | 3x | 20
 | Neck roll | 2x | 5
 | Posture clasp | 5x | 3
 | Knee and thigh stretch | 3x | 15
