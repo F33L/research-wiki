@@ -29,7 +29,7 @@ Finish by remaining seated in cross legged posture for several minutes and becom
 | Leg clasp | 6x | 10
 | Elbow to knee | 2x | 5
 | Alternate leg pull | 3x | 20
-| Ardha matsyendrasana (Twist)[asanas/ardha-matsyendrasana.md] | 2x | 20
+| (Ardha matsyendrasana (Twist))[asanas/ardha-matsyendrasana.md] | 2x | 20
 | Side raise | 3x | 10
 | Complete breath | 5x | 10
 | Head stand | 1x | 180(?)
