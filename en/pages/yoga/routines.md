@@ -26,7 +26,7 @@
 | [Padahastasana](asanas/padahastasana.md)                 | [Leg clasp](asanas/padahastasana.md)                | 6x          | 10   |
 | [n/a](asanas/elbow-to-knee.md)                           | [Elbow to knee](asanas/elbow-to-knee.md)            | 2x          | 5    |
 | [Janusirasana](asanas/janusirasana.md)                   | [Alternate leg pull](asanas/janusirasana.md)        | 3x          | 20   |
-| [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   | [Full Twist](asanas/asanas/ardha-matsyendrasana.md) | 2x          | 20   |
+| [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   | [Full Twist](asanas/ardha-matsyendrasana.md) | 2x          | 20   |
 | [Uttitha Merudandasana](asanas/uttitha-merudandasana.md) | [Side raise](asanas/uttitha-merudandasana.md)       | 3x          | 10   |
 | [Pranayama (sitting)](asanas/pranayama.md)               | [Complete breath (sitting)](asanas/pranayama.md)    | 5x          | 10   |
 | [Savasana](asanas/savasana.md)                           | [Deep relaxation](asanas/savasana.md)               | 7x          | n/a  |

@@ -19,7 +19,7 @@
 | [Dancer's posture](asanas/urvasana.md)               | [Urvasana](asanas/urvasana.md)                           |
 | [Deep relaxation](asanas/savasana.md)                | [Savasana](asanas/savasana.md)                           |
 | [Elbow to knee](asanas/elbow-to-knee.md)             | [n/a](asanas/elbow-to-knee.md)                           |
-| [Full Twist](asanas/asanas/ardha-matsyendrasana.md)  | [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   |
+| [Full Twist](asanas/ardha-matsyendrasana.md)         | [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   |
 | [Head twist](asanas/head-twist.md)                   | [n/a](asanas/head-twist.md)                              |
 | [Knee and thigh stretch](asanas/bhadrasana.md)       | [Bhadrasana](asanas/bhadrasana.md)                       |
 | [Leg clasp](asanas/padahastasana.md)                 | [Padahastasana](asanas/padahastasana.md)                 |
