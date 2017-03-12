@@ -1,13 +1,15 @@
-# Uttithia Merudandasana (Side bend)
+# Uttithia Merudandasana (Side Raise)
+_p. 152_
 
-1. Stand with heels together
-2. Gracefully raise arms overhead; palms turn inward
-3. Slowly bend several inches to the left, keeping arms parallel and knees unbent
-4. Hold for 5
-5. Slowly straighten upright
-6. Perform identical movement to the right
-7. Lower arms to sides and relax
-8. Perform left and right movements to the intermediate position
-8. Perform left and right movements to the extreme position
-
-![Side bend](https://s3-us-west-2.amazonaws.com/philip-weber-static/images/yoga-side-bend-01.jpg)
+1. Lie on left side. Legs together. Head supported by left hand. Right hand firmly on floor.
+2. Slowly raise right leg as high as possible
+3. Hold for 10
+4. Slowly lower leg
+5. Push firmly against floor with right hand
+6. Raise both legs a short distance
+7. Hold for 5
+8. Slowly lower legs
+9. Raise both legs as high as possible
+10. Hold for 5
+11. Slowly lower legs
+12. Perform identical movements on right side
