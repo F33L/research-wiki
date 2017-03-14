@@ -1,4 +1,4 @@
-# Uttithia Merudandasana (Side Raise)
+# Utthita Merudandasana (Side Raise)
 _p. 152_
 
 1. Lie on left side. Legs together. Head supported by left hand. Right hand firmly on floor.

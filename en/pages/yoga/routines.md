@@ -18,35 +18,35 @@
 ----
 
 ## Routine 2
-|                     Asana (Sanskrit)                     |                   Asana (English)                   | Repetitions | Hold |
-|:-------------------------------------------------------- |:--------------------------------------------------- |:----------- |:---- |
-| [Pranayama (standing)](asanas/pranayama.md)              | [Complete breath (standing)](asanas/pranayama.md)   | 5x          | 5    |
-| [n/a](asanas/circular-motion.md)                         | [Circular motion](asanas/circular-motion.md)        | 3x          | 5    |
-| [Nitambasana](asanas/nitambasana.md)                     | [Side bend](asanas/nitambasana.md)                  | 3x          | 10   |
-| [Padahastasana](asanas/padahastasana.md)                 | [Leg clasp](asanas/padahastasana.md)                | 6x          | 10   |
-| [n/a](asanas/elbow-to-knee.md)                           | [Elbow to knee](asanas/elbow-to-knee.md)            | 2x          | 5    |
-| [Janusirasana](asanas/janusirasana.md)                   | [Alternate leg pull](asanas/janusirasana.md)        | 3x          | 20   |
-| [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   | [Full Twist](asanas/ardha-matsyendrasana.md) | 2x          | 20   |
-| [Uttitha Merudandasana](asanas/uttitha-merudandasana.md) | [Side raise](asanas/uttitha-merudandasana.md)       | 3x          | 10   |
-| [Pranayama (sitting)](asanas/pranayama.md)               | [Complete breath (sitting)](asanas/pranayama.md)    | 5x          | 10   |
-| [Savasana](asanas/savasana.md)                           | [Deep relaxation](asanas/savasana.md)               | 7x          | n/a  |
+|                     Asana (Sanskrit)                     |                  Asana (English)                  | Repetitions | Hold |
+|:-------------------------------------------------------- |:------------------------------------------------- |:----------- |:---- |
+| [Pranayama (standing)](asanas/pranayama.md)              | [Complete breath (standing)](asanas/pranayama.md) | 5x          | 5    |
+| [n/a](asanas/circular-motion.md)                         | [Circular motion](asanas/circular-motion.md)      | 3x          | 5    |
+| [Nitambasana](asanas/nitambasana.md)                     | [Side bend](asanas/nitambasana.md)                | 3x          | 10   |
+| [Padahastasana](asanas/padahastasana.md)                 | [Leg clasp](asanas/padahastasana.md)              | 6x          | 10   |
+| [n/a](asanas/elbow-to-knee.md)                           | [Elbow to knee](asanas/elbow-to-knee.md)          | 2x          | 5    |
+| [Janusirasana](asanas/janusirasana.md)                   | [Alternate leg pull](asanas/janusirasana.md)      | 3x          | 20   |
+| [Ardha matsyendrasana](asanas/ardha-matsyendrasana.md)   | [Full Twist](asanas/ardha-matsyendrasana.md)      | 2x          | 20   |
+| [Uttitha Merudandasana](asanas/uttitha-merudandasana.md) | [Side raise](asanas/uttitha-merudandasana.md)     | 3x          | 10   |
+| [Pranayama (sitting)](asanas/pranayama.md)               | [Complete breath (sitting)](asanas/pranayama.md)  | 5x          | 10   |
+| [Savasana](asanas/savasana.md)                           | [Deep relaxation](asanas/savasana.md)             | 7x          | n/a  |
 
 ---
 
 ## Routine 3
 
-|              Asana (Sanskrit)              |                   Asana (English)                    | Repetitions |     Hold     |
-|:------------------------------------------ |:---------------------------------------------------- |:----------- |:------------ |
-| [Ardha chakrasana](ardha-chakrasana.md)    | [Chest expansion](ardha-chakrasana.md)               | 3x          | 10           |
-| [Urvasana](asanas/urvasana.md)             | [Dancer's posture](asanas/urvasana.md)               | 5x          | n/a          |
-| [Uddiyana (Standing)](asanas/uddiyana.md)  | [Abdominal lift](asanas/uddiyana.md)                 | 3x          | n/a          |
-| [Uddiyana (All fours)](asanas/uddiyana.md) | [Abdominal lift](asanas/uddiyana.md)                 | 3x          | n/a          |
-| [Simhasana](asanas/simhasana.md)           | [Lion](asanas/simhasana.md)                          | 3x          | 20           |
-| [n/a](asanas/neck-roll.md)                 | [Neck roll](asanas/neck-roll.md)                     | 2x          | 5            |
-| [n/a](asanas/posture-clasp.md)             | [Posture clasp](asanas/posture-clasp.md)             | 5x          | 3            |
-| [Bhadrasana](asanas/bhadrasana.md)         | [Knee and thigh stretch](asanas/bhadrasana.md)       | 3x          | 15           |
-| [Sarvangasana](sarvangasana.md)            | [Shoulder stand](sarvangasana.md)                    | 1x          | 180          |
-| [Halasana](asanas/halasana.md)             | [Plough](asanas/halasana.md)                         | 2x          | 20           |
-| [n/a](asanas/back-push-up.md)              | [Back push-up](asanas/back-push-up.md)               | 3x          | 10           |
-| [n/a](asanas/slow-motion-firming.md)       | [Slow motion firming](asanas/slow-motion-firming.md) | 2x          | n/a          |
-| [Tratak](asanas/tratak.md)                 | [Candle concentration](asanas/tratak.md)             | 1x          | 2min, 1-2min |
+|                Asana (Sanskrit)                |                   Asana (English)                    | Repetitions |     Hold     |
+|:---------------------------------------------- |:---------------------------------------------------- |:----------- |:------------ |
+| [Ardha chakrasana](asanas/ardha-chakrasana.md) | [Chest expansion](asanas/ardha-chakrasana.md)        | 3x          | 10           |
+| [Urvasana](asanas/urvasana.md)                 | [Dancer's posture](asanas/urvasana.md)               | 5x          | n/a          |
+| [Uddiyana (Standing)](asanas/uddiyana.md)      | [Abdominal lift](asanas/uddiyana.md)                 | 3x          | n/a          |
+| [Uddiyana (All fours)](asanas/uddiyana.md)     | [Abdominal lift](asanas/uddiyana.md)                 | 3x          | n/a          |
+| [Simhasana](asanas/simhasana.md)               | [Lion](asanas/simhasana.md)                          | 3x          | 20           |
+| [n/a](asanas/neck-roll.md)                     | [Neck roll](asanas/neck-roll.md)                     | 2x          | 5            |
+| [n/a](asanas/posture-clasp.md)                 | [Posture clasp](asanas/posture-clasp.md)             | 5x          | 3            |
+| [Bhadrasana](asanas/bhadrasana.md)             | [Knee and thigh stretch](asanas/bhadrasana.md)       | 3x          | 15           |
+| [Sarvangasana](asanas/sarvangasana.md)         | [Shoulder stand](asanas/sarvangasana.md)             | 1x          | 180          |
+| [Halasana](asanas/halasana.md)                 | [Plough](asanas/halasana.md)                         | 2x          | 20           |
+| [n/a](asanas/back-push-up.md)                  | [Back push-up](asanas/back-push-up.md)               | 3x          | 10           |
+| [n/a](asanas/slow-motion-firming.md)           | [Slow motion firming](asanas/slow-motion-firming.md) | 2x          | n/a          |
+| [Tratak](asanas/tratak.md)                     | [Candle concentration](asanas/tratak.md)             | 1x          | 2min, 1-2min |

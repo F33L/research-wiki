@@ -2,8 +2,7 @@
 
 |                   Asana (English)                    |                     Asana (Sanskrit)                     |
 |:---------------------------------------------------- |:-------------------------------------------------------- |
-| [Abdominal lift](asanas/uddiyana.md)                 | [Uddiyana (Standing)](asanas/uddiyana.md)                |
-| [Abdominal lift](asanas/uddiyana.md)                 | [Uddiyana (All fours)](asanas/uddiyana.md)               |
+| [Abdominal lift](asanas/uddiyana.md)                 | [Uddiyana](asanas/uddiyana.md)                           |
 | [Alternate leg pull](asanas/janusirasana.md)         | [Janusirasana](asanas/janusirasana.md)                   |
 | [Alternate nostril breathing](asanas/sukh-purvak.md) | [Sukh purvak](asanas/sukh-purvak.md)                     |
 | [Backward bend](asanas/supta-vajrasana.md)           | [Supta-Vajrasana](asanas/supta-vajrasana.md)             |
@@ -12,7 +11,7 @@
 | [Balance posture](asanas/natarajasana.md)            | [Natarajasana](asanas/natarajasana.md)                   |
 | [Bow](asanas/dhanurasana.md)                         | [Dhanurasana](asanas/dhanurasana.md)                     |
 | [Candle concentration](asanas/tratak.md)             | [Tratak](asanas/tratak.md)                               |
-| [Chest expansion](ardha-chakrasana.md)               | [Ardha chakrasana](ardha-chakrasana.md)                  |
+| [Chest expansion](asanas/ardha-chakrasana.md)        | [Ardha chakrasana](asanas/ardha-chakrasana.md)           |
 | [Circular motion](asanas/circular-motion.md)         | [n/a](asanas/circular-motion.md)                         |
 | [Cobra](asanas/bhujangasana.md)                      | [Bhujangasana](asanas/bhujangasana.md)                   |
 | [Complete breath](asanas/pranayama.md)               | [Pranayama (sitting)](asanas/pranayama.md)               |
@@ -31,7 +30,7 @@
 | [Side bend](asanas/nitambasana.md)                   | [Nitambasanaa](asanas/nitambasana.md)                    |
 | [Side raise](asanas/uttitha-merudandasana.md)        | [Uttitha Merudandasana](asanas/uttitha-merudandasana.md) |
 | [Slow motion firming](asanas/slow-motion-firming.md) | [n/a](asanas/slow-motion-firming.md)                     |
-| [Shoulder stand](sarvangasana.md)                    | [Sarvangasana](sarvangasana.md)                          |
+| [Shoulder stand](asanas/sarvangasana.md)             | [Sarvangasana](asanas/sarvangasana.md)                   |
 | [Triangle](asanas/trikonasana.md)                    | [Trikonasana](asanas/trikonasana.md)                     |
 | [Plough](asanas/halasana.md)                         | [Halasana](asanas/halasana.md)                           |
 | [Posture clasp](asanas/posture-clasp.md)             | [n/a](asanas/posture-clasp.md)                           |
